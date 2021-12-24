@@ -1,5 +1,4 @@
 <html lang="es">
-<<<<<<< HEAD
 <style>
     *{margin: 0;padding: 0;}
     .navigateDiv{
