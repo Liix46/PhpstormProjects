@@ -1,5 +1,6 @@
 <?php
 function setHeader($color='black'){
+<<<<<<< HEAD
     echo "<header style=\"border: 2px solid {$color}; height: 8vh;\"> HEADER </header>";
 }
 function setNav($color="black"){
@@ -12,6 +13,12 @@ function setNav($color="black"){
                  
             </div>
         </nav> ";
+=======
+    echo "<header style=\"border: 2px solid {$color}; height: 10vh;\"> HEADER </header>";
+}
+function setNav($color="black"){
+    echo "<nav style=\"border: 2px solid {$color}; height: 5vh;\">NAV</nav> ";
+>>>>>>> refs/remotes/origin/master
 }
 function setDiv($color="black"){
     echo "<div style=\"display: flex; border: 2px solid $color; height: 75vh;  flex-grow: 8\">DIV</div>";
