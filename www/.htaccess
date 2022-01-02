@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule  ^home$  index.php
+RewriteRule  ^about$  about.php
+RewriteRule  ^privacy$  privacy.php
