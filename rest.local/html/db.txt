@@ -1,0 +1,9 @@
+PHP MySQL - работа с бд
+1. Создаем БД и пользователя для нее
+create database rest_local;
+grant all privileges
+on rest_local.*
+to 'rest_user'@'localhost'
+identified by 'rest_pass';
+
+2 Файл с конфигурацией (db_config.php) и его подкоючение

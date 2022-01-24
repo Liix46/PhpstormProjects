@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c5eadf90-ddad-4846-a004-f980e031f7b4" name="MAMP Apache" url="http://localhost:8888">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/localhost" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
